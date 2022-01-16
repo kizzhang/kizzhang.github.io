@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-I post notes or my comments on different matters that I am interested in here regularly. Views are my own.s
+I post notes or my comments on different matters that I am interested in here regularly. Views are my own.
 <br />
