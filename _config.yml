@@ -1,0 +1,60 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Zhiyu Zhang's Webpage
+description: >- # this means to ignore newlines until "baseurl:"
+  Bay is a minimal Jekyll Theme.
+#baseurl: "/bay" # the subpath of the site
+url: "https://kizzhang.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "G-0ZG90FVDTB"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Work
+    - name: Blog
+    - name: Research
+    - name: Project
+
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email
+      value: kizzhang@utexas.edu
+      link: mailto:kizzhang@utexas.edu
+    - name: WeChat
+      value: alavagarde
+      link: "#"
+  follow:
+    - name: Twitter
+      link: http://twitter.com/kizzhang
+      username: "@kizzhang"
+    - name: LinkedIn
+      link: http://linkedin.com/in/zhiyu-zhang-0ba01b193
+    - name: GitHub
+      link: http://github.com/kizzhang
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
