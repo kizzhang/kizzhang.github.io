@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+I post notes or my comments on different matters that I am interested in here regularly. Views are my own.s
 <br />

@@ -13,10 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
     - name: Research
     - name: Project
+    - name: Blog
 
 footer:
   show_powered_by: false
