@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/capture.png
       alt: water
-    description: I wrote some simple <a href="https://github.com/kizzhang/codeforHS2Bproject">MATLAB scripts</a> to capture cells captured under bright-field/phase-contrast microscope.
+    description: I wrote some simple <a href="https://github.com/kizzhang/codeforHS2Bproject">MATLAB scripts</a> to measure cells captured under bright-field/phase-contrast microscope.
 
 
 ---
