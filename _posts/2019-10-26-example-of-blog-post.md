@@ -17,7 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br />
 
-
 #### Table of Contents
 1. [Part 1](#part-1)
 2. [Part 2](#part-2)
