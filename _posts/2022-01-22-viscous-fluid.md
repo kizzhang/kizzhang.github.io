@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Notes on Viscous Term in Navier-Stokes' Equation"
+subtitle: "First-Time Learner Version"
 date:   2022-01-22 12:40:00
-blurb: Study notes on viscous fluid. A close analysis of the viscous tensor and strain tensor.
+blurb: Study notes on viscous fluid. A close analysis of the viscous tensor and strain tensor. First-time, newbee version.
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
@@ -141,7 +142,7 @@ $$
 
 Hence, we proved that tensor is symmetric since $$\tau_{ij}= \tau_{ji}$$.
 
-### The Final Stokes Equation (Newtonian & Incompressible)
+### The Final Stokes Equation
 
 <img src="{{ "/assets/img/content/viscous-fluid/viscous_strain.jpg" | absolute_url }}" alt="viscous_strain" class="content-pic"/>
 <div class="fig-caption">
