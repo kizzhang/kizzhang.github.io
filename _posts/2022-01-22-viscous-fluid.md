@@ -67,7 +67,7 @@ Hence, we can get the net viscous force by subtrating forces on the leftmost fac
 
 $$
 \begin{align}
-\mathrm{F_x^{net}} &= \mathrm{F_x^{right}} - \mathrm{F_x^{left}} \\ &= \frac{d \tau_{xx}(x)}{dx} dx dy dz + \frac{\tau_{yx}(y)}{dy} dy dx dz + \frac{d \tau_{zx}(z)} {dz} dz dy dx
+\mathrm{F_x^{net}} &= \mathrm{F_x^{right}} - \mathrm{F_x^{left}} \\ &= \frac{d \tau_{xx}(x)}{dx} dx dy dz + \frac{d\tau_{yx}(y)}{dy} dy dx dz + \frac{d \tau_{zx}(z)} {dz} dz dy dx
 \end{align}
 $$
 
