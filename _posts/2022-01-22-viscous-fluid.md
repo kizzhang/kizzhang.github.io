@@ -109,9 +109,9 @@ Great! I think at this point it is clear that why we use a tensor to express the
 
 ### Viscous Tensor is Symmetric
 
-The reasoning behind is that we dont want the fluid parcel to rotate. This is a physical assumption, right:sweat_smile:? If you think about water we drink is a giant cloud of rotating cubes, that would be really weird. 
+The reasoning behind is that we dont want the fluid parcel to rotate. This is a physical assumption, right 😅? If you think about water we drink is a giant cloud of rotating cubes, that would be really weird. 
 
-Expressing this fact in physical term, we need the net angular momentum $$\vec{\mathrm{T}}_\mathrm{par}$$ of the fluid parcel to be $$0$$.
+Expressing this fact in physical term, we need the net angular momentum $$\vec{\mathrm{T}}_\mathrm{par}$$ of the fluid parcel to be $$0$$.  
 
 We have by looking at Figure 1 again 
 
