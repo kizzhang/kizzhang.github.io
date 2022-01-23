@@ -21,7 +21,7 @@ Let's consider the famous Navier Stokes' Equation:
 
 $$
 \begin{equation}
-\frac{D (\rho \vec{\pmb{v}})}{D t} = -\vec{\nabla} \cdot \overrightarrow{\bf{\mathrm{P}}}+ (\vec{\nabla}\cdot \pmb{\tau})^\mathrm{T} +\rho \vec{\pmb{f}},
+\frac{D (\rho \vec{\pmb{v}})}{D t} = -\vec{\nabla} \cdot \overrightarrow{\bf{\mathrm{P}}}+ (\vec{\nabla}\cdot \pmb{\tau})^\mathrm{T} +\rho \vec{\pmb{f}}_{\mathrm{other}},
 \end{equation}
 $$
 
@@ -56,11 +56,13 @@ To see that $$(\vec{\nabla}\cdot \pmb{\tau})^\mathrm{T}$$ gives us the correct d
 
 It is not hard to see from Fig. 1 that the force in the x direction on the rightmost face is just the sum of each $$\tau_{ix}$$ that points to the right multiplied by the area of that face
 
-\begin{equation}
+$$
+\begin{equation*}
 \mathrm{F_x^{right}} = \tau_{xx}(x+dx) dy dz + \tau_{yx}(y+dy) dx dz + \tau_{zx}(z+dz) dy dx
-\end{equation}
+\end{equation*}
+$$
 
-Hence, we can get the net force by subtrating forces on the leftmost faces and the rightmost as
+Hence, we can get the net viscous force by subtrating forces on the leftmost faces and the rightmost as
 
 $$
 \begin{align}
@@ -68,7 +70,7 @@ $$
 \end{align}
 $$
 
-Hence we have the x-component force per unit volume $$\mathrm{V_{par}}$$ on the fluid parcel as
+Hence we have the x-component viscous force per unit volume $$\mathrm{V_{par}}$$ on the fluid parcel as
 
 $$
 \begin{align}
