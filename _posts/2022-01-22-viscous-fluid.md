@@ -20,7 +20,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 Let's consider the famous Navier Stokes' Equation:
 
 \begin{equation}
-\frac{D (\rho \vec{u})}{D t} = -\vec{\nabla} \cdot \vec{P}+\vec{\nabla}\cdot \pmb{\tau}+\rho \vec{f},
+\frac{D (\rho \vec{u})}{D t} = -\vec{\nabla} \cdot \vec{P}+\vec{\nabla}^\mathrm{T}\cdot \pmb{\tau}+\rho \vec{f},
 \end{equation}
 
 where $$\frac{D}{Dt}$$ is the total time derivative, $$ \rho$$ is the density of fluid, $$\vec{P}$$ is the pressure, and $$\vec{f}$$ is some other forces on the fluid. Here, for Cartesian coordinate $$(x,y,z) \in \reals^3$$, 
@@ -48,7 +48,7 @@ The *first letter* in the subscript of $$ \pmb{\tau}$$ denotes the **normal dire
 <br />
 ### Viscous Tensor as Forces per Unit Area
 
-To see that $$\vec{\nabla}\cdot \pmb{\tau}$$ gives us the correct discription of viscous forces per unit volum $$\overrightarrow{\mathrm{\bf{f}}}_{\mathrm{viscous}}$$ on the fluid parcel, we consider, without loss of generality, component of this force in the x direciton. 
+To see that $$\vec{\nabla}^\mathrm{T}\cdot \pmb{\tau}$$ gives us the correct discription of viscous forces per unit volum $$\overrightarrow{\mathrm{\bf{f}}}_{\mathrm{viscous}}$$ on the fluid parcel, we consider, without loss of generality, component of this force in the x direciton. 
 
 It is not hard to see from Fig. 1 that the force in the x direction on the rightmost face is just the sum of each $$\tau_{ix}$$ that points to the right multiplied by the area of that face
 
@@ -99,7 +99,7 @@ $$
         \tau_{yx} & \tau_{yy} & \tau_{yz} \\
         \tau_{zx} & \tau_{zy} & \tau_{zz}
    \end{bmatrix} \\
-&= \vec{\nabla} \cdot \pmb{\tau}
+&= \vec{\nabla}^\mathrm{T} \cdot \pmb{\tau}
 
 \end{aligned} 
 $$
