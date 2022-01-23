@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Viscous Term in Navier-Stokes' Equation"
 date:   2022-01-22 12:40:00
-blurb: "A look at an example post using Bay Jekyll theme."
+blurb: Study notes on viscous fluid. A close analysis of the viscous tensor and strain tensor.
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
