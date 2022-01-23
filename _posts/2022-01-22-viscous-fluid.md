@@ -37,9 +37,9 @@ $$
 
 is a viscous tensor of rank two. 
 
-The tensor property is due to the fact each face of a fluid parcel suffers forces from left/right (along x-axis), front/back (along y-axis), and up/down (along z-axis). <ins>**THIS IS AN IMPORTANT FACT.**</ins>
+The reason we use a tensor to express forces is due to the fact each face of a fluid parcel suffers forces from left/right (along x-axis), front/back (along y-axis), and up/down (along z-axis). <ins>**THIS IS AN IMPORTANT FACT.**</ins>
 
-The *first letter* denotes the **normal direction** of the face, while the *later* one denotes the **direction the force is pointing**. This is demonstrated in the following diagram.
+The *first letter* in the subscript of $$ \pmb{\tau}$$ denotes the **normal direction** of the face, while the *later* one denotes the **direction the force is pointing**. This is demonstrated in the following diagram.
 
 <img src="{{ "/assets/img/content/viscous-fluid/tau_tensor.jpg" | absolute_url }}" alt="bay" class="content-pic"/>
 <div class="fig-caption">
