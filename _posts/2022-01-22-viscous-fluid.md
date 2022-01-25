@@ -18,6 +18,9 @@ og_image: /assets/img/content/post-example/Banner.jpg
 
 ### Navier Stokes Equation and Viscous Tensor
 <br />
+
+#### TL;DR: A hand-wavy treatment of viscous term in N-S Equation. Refer to my future notes for a more rigorous one.
+
 Let's consider the famous Navier Stokes' Equation:
 
 $$
@@ -149,7 +152,7 @@ Hence, we proved that tensor is symmetric since $$\tau_{ij}= \tau_{ji}$$.
   <p>Figure 2. A plot of stress versus speed change with height change in a fluid parcel determined by experiment.</p>
 </div>
 
-Here we consider only Newtonian fluid ($$\mu$$ is scalar constant). For some other fluid, which thermal effect comes into place, you can refer to the full treatment given in the fluid mechanics notes by Dr. Joseph M. Powers at University of Notre Dame[^2].
+Here we consider only Newtonian fluid ($$\mu$$ is scalar constant). For some other fluid, which thermal effect comes into play, you can refer to the full treatment given in the fluid mechanics notes by Dr. Joseph M. Powers at University of Notre Dame[^2].
 
 We see from Fig. 2 that we have the following equality:
 
