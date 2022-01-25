@@ -241,10 +241,11 @@ We hence obtained the usual Navier Stokes Equation (from Eq. 1)
 
 $$
 \begin{equation}
-\frac{D (\rho \vec{\pmb{v}})}{D t} = -\vec{\nabla} \cdot \overrightarrow{\bf{\mathrm{P}}}+ \mu\nabla^2\vec{\pmb{v}} +\rho \vec{\pmb{f}},
+\frac{D (\rho \vec{\pmb{v}})}{D t} = -\vec{\nabla} \cdot \overrightarrow{\bf{\mathrm{P}}}+ \mu\nabla^2\vec{\pmb{v}}^\mathrm{T} +\rho \vec{\pmb{f}},
 \end{equation}
 $$
 
+and the transpose sign is just to get the row upright into a column, vector form.
 <br/>
 
 ##### REFERENCE
