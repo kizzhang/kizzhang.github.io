@@ -145,7 +145,7 @@ $$
 
 Hence, we proved that tensor is symmetric since $$\tau_{ij}= \tau_{ji}$$.
 
-### The Final Stokes Equation
+### The Final N-S Equation
 
 <img src="{{ "/assets/img/content/viscous-fluid/viscous_strain.jpg" | absolute_url }}" alt="viscous_strain" class="content-pic"/>
 <div class="fig-caption">
