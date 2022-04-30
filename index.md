@@ -14,5 +14,4 @@ profile_picture:
 </p>
 
 <p>
-  You can find my loved one's website  <a href="https://jinyuan.cargo.site/Info">here</a>.
-</p>
+<p>
