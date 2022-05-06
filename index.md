@@ -10,8 +10,11 @@ profile_picture:
 </p>
 
 <p>  
-  I grew up in Changsha, Hunan. I have a wide pool of interests, ranging from Math and Physics to cooking : ) 
+  I grew up in Changsha, Hunan. As a Physics student, I am always to know more.
 </p>
 
+<p>
+  You can find the future world-renowned artist and architect<a href= "https://jinyuan.cargo.site/">here</a>.
+</p>
 <p>
 <p>
