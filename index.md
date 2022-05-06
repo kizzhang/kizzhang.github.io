@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  You can find the future world-renowned artist and architect<a href= "https://jinyuan.cargo.site/">here</a>.
+  You can find the future world-renowned artist and architect<a href= "https://jinyuan.cargo.site/"> here</a>.
 </p>
 <p>
 <p>
