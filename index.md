@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>  
-  I grew up in Changsha, Hunan. As a Physics student, I am always to know more.
+  I grew up in Changsha, Hunan. As a Physics student, I am always curious to know more.
 </p>
 
 <p>
