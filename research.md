@@ -17,7 +17,7 @@ items:
     description: Bacteria are one of the most accessible active matter systems you could ever find in the world. Also, they play important roles in human's world, from health concerns to food productions. To test different dynamic properties of bacteria in the lab setting is one of the important way to understand them and hopefully gain insights into general laws that could be extended to other active matter system as well.
     
     pub: Publications
-    pubdes: Z. Zhang et al., <i>Enterobacter sp. strain SM1_HS2B manifests transient elongation and swimming motility in liquid medium</i>, Microbiology Spectrum (Accepted)
+    pubdes: Z. Zhang et al., <i>Enterobacter sp. strain SM1_HS2B manifests transient elongation and swimming motility in liquid medium</i>, Microbiology Spectrum, 2022 Jun 1:e0207821. doi{:} 10.1128/spectrum.02078-21. 
 ---
 My research interest changes from time to time, but here are some of my current ones. My research interests always come from my curiousity.
 <br />
