@@ -5,7 +5,7 @@ slug: /research
 items:
   - title: AI 4 Science
     image:
-      src: /assets/img/work/AI.jpg
+      src: /assets/img/work/AI.png
       alt: AI
     description: Artificial intelligence is revolutionizing our world. From LLMs like ChatGPT and ChatGLM to LVMs (CLIP, DINO, ViT) and image generative models (Stable Diffusion, Sora, kling), we are witnessing a potential ground-breaking change to the way we live and work. The fundamental building block of all these AI models is the neural network (NN), which by ingenious design can potentially fit any complex function such as distribution of natural language and image pixels. In science, we encounter many of these complex functions that humen are impossible to analytically derive. AI, on the other hand, by taking in substantial amount of data, it can help us to fit these complex functions and tell us what is essential.
     pub: Publications
