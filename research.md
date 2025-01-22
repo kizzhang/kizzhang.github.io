@@ -3,7 +3,7 @@ layout: research
 title: Research
 slug: /research
 items:
-- title: AI 4 Science
+  - title: AI 4 Science
     image:
       src: /assets/img/work/AI.jpg
       alt: AI
