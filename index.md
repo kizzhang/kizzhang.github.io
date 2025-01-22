@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! Welcome to my personal website. You can find my contact below. I am a Physics Ph.D. candidate at the City University of Hong Kong. 
+  Hi! Welcome to my personal website. You can find my contact below. I am a Physics Ph.D. candidate at City University of Hong Kong. 
 </p>
 
 <p>  

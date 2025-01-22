@@ -3,13 +3,22 @@ layout: research
 title: Research
 slug: /research
 items:
+- title: AI 4 Science
+    image:
+      src: /assets/img/work/AI.jpg
+      alt: AI
+    description: Artificial intelligence is revolutionizing our world. From LLMs like ChatGPT and ChatGLM to LVMs (CLIP, DINO, ViT) and image generative models (Stable Diffusion, Sora, kling), we are witnessing a potential ground-breaking change to the way we live and work. The fundamental building block of all these AI models is the neural network (NN), which by ingenious design can potentially fit any complex function such as distribution of natural language and image pixels. In science, we encounter many of these complex functions that humen are impossible to analytically derive. AI, on the other hand, by taking in substantial amount of data, it can help us to fit these complex functions and tell us what is essential.
+    pub: Publications
+    pubdes: Z. Zhang et al., <i>Recognizing and generating knotted molecular structures by machine learning</i>, 2025 (submitted)
+
   - title: Active Matter Simulation
     image:
-      src: /assets/img/work/test.gif
+      src: /assets/img/work/bac_swim.gif
       alt: simulation
     description: Active matter is defined as a system of individual dynamic objects that have ability to move in phase space by dissipating inherent energy or energy extracted from surrounding environment. You can find some detailed reference <a href="https://www.nature.com/collections/hvczfmjfzl?utm_source=twitter&utm_medium=social&utm_content=boosted&utm_campaign=NCOM_1_SZ_ActiveMatter-GRC-social">here</a>. To strip down all those technical and arcane phrases, active matter is a group of stuffs that use their own energy to move around (consider a flock of birds swarm across the sky). Most interestingly, when these individuals move collectively, they exhibit a variety of fascinating patterns called Motility Induced Phase Separations (MIPS). My interest is to use physical and mathematical models to simulate active matter systems. This helps me to gain insights into what interactions, symmetries, and thermodynamic properties are crucial to be captured in order to understand the mechanism behind the active matter systems. Codes can be found in the <a href="/project"> Project </a> page.
     pub: Publications
-    pubdes: #{}
+    pubdes: Z. Zhang et al., <i>Activity tightens polymer knots</i>, 2025 (prepare to resubmit)
+    
   - title: Experiments on Bacteria 
     image:
       src: /assets/img/work/swarm.png
