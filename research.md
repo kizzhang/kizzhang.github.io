@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/AI.png
       alt: AI
-    description: Artificial intelligence is revolutionizing our world. From LLMs like ChatGPT and ChatGLM to LVMs (CLIP, DINO, ViT) and image generative models (Stable Diffusion, Sora, kling), we are witnessing a potential ground-breaking change to the way we live and work. The fundamental building block of all these AI models is the neural network (NN), which by ingenious design can potentially fit any complex function such as distribution of natural language and image pixels. In science, we encounter many of these complex functions that humen are impossible to analytically derive. AI, on the other hand, by taking in substantial amount of data, it can help us to fit these complex functions and tell us what is essential.
+    description: Artificial intelligence is revolutionizing our world. From LLMs like ChatGPT and ChatGLM to LVMs (CLIP, DINO, ViT) and image generative models (Stable Diffusion, Sora, kling), we are witnessing a potential ground-breaking change to the way we live and work. The fundamental building block of all these AI models is the neural network (NN), which by ingenious design can potentially fit any complex function such as distribution of natural language and image pixels. In science, we encounter many of these complex functions that humen are impossible to analytically derive. AI, on the other hand, by taking in substantial amount of data, it can help us to fit these complex functions and tell us what is essential. 
     pub: Publications
     pubdes: Z. Zhang et al., <i>Recognizing and generating knotted molecular structures by machine learning</i>, 2025 (submitted)
 
@@ -26,7 +26,7 @@ items:
     description: Bacteria are one of the most accessible active matter systems you could ever find in the world. Also, they play important roles in human's world, from health concerns to food productions. To test different dynamic properties of bacteria in the lab setting is one of the important way to understand them and hopefully gain insights into general laws that could be extended to other active matter system as well.
     
     pub: Publications
-    pubdes: Z. Zhang et al., <i>Enterobacter sp. strain SM1_HS2B manifests transient elongation and swimming motility/ in liquid medium</i>, Microbiology Spectrum, 2022 Jun 1:e0207821. doi:10.1128/spectrum.02078-21. 
+    pubdes: Z. Zhang et al., <i>Enterobacter sp. strain SM1_HS2B manifests transient elongation and swimming</i> <i>motility in liquid medium</i>, Microbiology Spectrum, 2022 Jun 1:e0207821. doi:10.1128/spectrum.02078-21. 
 ---
 My research interest changes from time to time, but here are some of my current ones. My research interests always come from my curiousity.
 <br />
