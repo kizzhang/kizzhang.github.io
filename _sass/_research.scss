@@ -28,7 +28,7 @@
 
 
 .research-pubdes {
-  // word-wrap: break-word;  /* Older syntax */
+  word-wrap: break-word;  /* Older syntax */
   overflow-wrap: break-word;  /* Modern syntax */
   white-space: normal;  /* Ensures text wraps and doesn't overflow */
 }
