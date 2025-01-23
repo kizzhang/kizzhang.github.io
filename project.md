@@ -3,6 +3,11 @@ layout: work
 title: Project
 slug: /project
 items:
+  - title: Transformer-based knot classification and generation
+    image:
+      src: /assets/img/work/transformer.png
+      alt: 3dBrownian
+    description: Transformer classifies and generate knots with high accuracy. Code can be found <a href="https://github.com/kizzhang/KnotTransformer">here</a>. 
   - title: 3-D Active Brownian Particle Simulation
     image:
       src: /assets/img/work/3d.png
