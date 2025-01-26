@@ -11,7 +11,7 @@ items:
     pub: Publications
     pubdes: Z. Zhang et al., <i>Recognizing and generating knotted molecular structures by machine learning</i>, arXiv preprint arXiv:2501.12780 (submitted)
 
-  - title: Active Matter Simulation
+  - title: Active Matter Simulation and Theory
     image:
       src: /assets/img/work/bac_swim.gif
       alt: simulation
