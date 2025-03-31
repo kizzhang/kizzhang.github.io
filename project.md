@@ -11,7 +11,7 @@ items:
   - title: 3-D Active Brownian Particle Simulation
     image:
       src: /assets/img/work/3d.png
-      alt: ActivePolymer
+      alt: 3dBrownian
     description: A conclusive <a href="https://github.com/kizzhang/ActivePolymer">repository</a> of simulating active polymer (ABP, tangential, chiral, and more...) using LAMMPS and HOOMD-Blue.
   - title: 2-D Active Brownian Particle Simulation
     image:
