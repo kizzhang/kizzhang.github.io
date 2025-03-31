@@ -8,7 +8,7 @@ items:
       src: /assets/img/work/transformer.png
       alt: 3dBrownian
     description: Transformer classifies and generate knots with high accuracy. Code can be found <a href="https://github.com/kizzhang/KnotTransformer">here</a>.
-  - title: 3-D Active Brownian Particle Simulation
+  - title: Active Polymer Simulation
     image:
       src: /assets/img/work/activepolymer.png
       alt: 3dBrownian
